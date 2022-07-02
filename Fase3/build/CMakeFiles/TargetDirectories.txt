@@ -1,0 +1,5 @@
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase3/build/CMakeFiles/rebuild_cache.dir
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase3/build/CMakeFiles/edit_cache.dir
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase3/build/CMakeFiles/tinyxml2Lib.dir
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase3/build/CMakeFiles/engine.dir
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase3/build/CMakeFiles/generator.dir

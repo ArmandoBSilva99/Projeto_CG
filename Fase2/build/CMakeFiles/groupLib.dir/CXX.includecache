@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase2/src/ENGINE/Group.cpp
+string
+-
+vector
+-
+Group.hpp
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase2/src/ENGINE/Group.hpp
+
+/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase2/src/ENGINE/Group.hpp
+string
+-
+vector
+-
+

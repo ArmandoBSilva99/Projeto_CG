@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/tinyxml2Lib.dir/src/tinyxml2/tinyxml2.cpp.o -c /home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/src/tinyxml2/tinyxml2.cpp",
+  "file": "/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/src/tinyxml2/tinyxml2.cpp"
+},
+
+{
+  "directory": "/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/engine.dir/src/ENGINE/engine.cpp.o -c /home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/src/ENGINE/engine.cpp",
+  "file": "/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/src/ENGINE/engine.cpp"
+},
+
+{
+  "directory": "/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/generator.dir/src/GENERATOR/generator.cpp.o -c /home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/src/GENERATOR/generator.cpp",
+  "file": "/home/armando/Documents/LEI/3ano/CG/TP/CG2122/Fase1/src/GENERATOR/generator.cpp"
+}
+]
